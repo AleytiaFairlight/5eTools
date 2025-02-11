@@ -50,7 +50,7 @@
 		"ajv": "^8.12.0",
 		"ajv-formats": "^2.1.1",
 		"commander": "^12.0.0",
-		"esbuild": "^0.20.1",
+		"esbuild": "^0.25.0",
 		"eslint": "^8.56.0",
 		"handlebars": "^4.7.8",
 		"http-server": "^14.1.1",
